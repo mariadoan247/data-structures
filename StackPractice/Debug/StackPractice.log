@@ -1,0 +1,3 @@
+﻿  StackPractice.cpp
+C:\Users\maria\source\repos\StackPractice\StackPractice.cpp(28,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+  StackPractice.vcxproj -> C:\Users\maria\source\repos\StackPractice\Debug\StackPractice.exe

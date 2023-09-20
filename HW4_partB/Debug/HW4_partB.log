@@ -1,0 +1,5 @@
+﻿  HW4_partB.cpp
+C:\Users\maria\source\repos\HW4_partB\HW4_partB.cpp(64,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\source\repos\HW4_partB\HW4_partB.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\source\repos\HW4_partB\HW4_partB.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
+  HW4_partB.vcxproj -> C:\Users\maria\source\repos\HW4_partB\Debug\HW4_partB.exe

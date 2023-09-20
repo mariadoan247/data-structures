@@ -1,0 +1,5 @@
+﻿  Practice1.cpp
+C:\Users\maria\source\repos\Practice1\Practice1.cpp(37,16): warning C4101: 'z': unreferenced local variable
+C:\Users\maria\source\repos\Practice1\Practice1.cpp(37,13): warning C4101: 'y': unreferenced local variable
+  LINK : C:\Users\maria\source\repos\Practice1\Debug\Practice1.exe not found or not built by the last incremental link; performing full link
+  Practice1.vcxproj -> C:\Users\maria\source\repos\Practice1\Debug\Practice1.exe
